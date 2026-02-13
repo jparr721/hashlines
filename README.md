@@ -1,6 +1,6 @@
 # hashlines
 
-Annotates each line of text with a line number and a short FNV-1a hash. Useful for creating stable anchors to specific lines of code.
+Annotates each line of text with a line number and a short FNV-1a hash, used based on Can Boluk's [implementation](https://blog.can.ac/2026/02/12/the-harness-problem/)
 
 ## Install
 
